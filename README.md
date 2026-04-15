@@ -1,2 +1,4 @@
 # YouTube-Music-Morphe-Patches
-Patches to pull through Obtanium for my friends who have my signed APK
+These patches are for experimental YouTube updates via Obtainium. Sourced from APKMirror, these modifications are applied using Morphe, ensuring the original APK remains untouched.
+
+
